@@ -38,6 +38,19 @@ DBAutofy supports any and all query tools, systems, and methods possible, provid
 - **Automated CRUD Logic Generation**:
     - Automatically generates highly optimized boilerplate for data mutations (external execution required).
 
+## 💎 Schema Mastery & Intelligence
+
+DBAutofy goes beyond simple querying by providing deep insights into your database structures:
+
+- **Automated Schema Discovery**:
+    - Real-time pulling of database schemas, providing instant visibility into all available tables and fields across connected sources.
+- **Field Population Analytics**:
+    - Intelligent metrics that audit your data density, showing how well-populated specific fields and columns are to help guide query logic.
+- **Admin Metadata Panel**:
+    - A dedicated administrative interface allowing curators to add manual descriptions to tables and fields, clarifying their purpose and origin for all users.
+- **Advanced Table Merging**:
+    - Powerful systems designed to intelligently join and merge multiple tables and data sources into unified, high-performance views.
+
 ## 🛠️ Development Requirements
 
 ### Python 3.11.x
